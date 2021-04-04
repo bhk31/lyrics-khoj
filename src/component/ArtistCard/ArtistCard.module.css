@@ -1,0 +1,13 @@
+.artist_name {
+  text-align: center;
+  font-weight: bold;
+}
+
+.artist {
+  padding: 1%;
+  cursor: pointer;
+}
+
+.artist:hover {
+  box-shadow: 5px 5px 5px 5px;
+}
